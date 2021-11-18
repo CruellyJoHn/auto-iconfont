@@ -1,0 +1,22 @@
+{
+  "name": "auto-iconfont",
+  "version": "1.0.0",
+  "description": "自动拉取阿里巴巴iconfont上的icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CruellyJoHn/auto-iconfont.git"
+  },
+  "keywords": [
+    "iconfont"
+  ],
+  "author": "ljh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CruellyJoHn/auto-iconfont/issues"
+  },
+  "homepage": "https://github.com/CruellyJoHn/auto-iconfont#readme"
+}
