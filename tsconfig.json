@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "lib": ["es2015", "es2017", "dom"],
+    "types": ["node"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules",
+  ],
+  "includes": [
+    "src/**/*.ts"
+  ]
+}
